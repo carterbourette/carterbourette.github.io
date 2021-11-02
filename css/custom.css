@@ -13,10 +13,10 @@ html, body {
     color: #313f47;
     font-size: 1.05rem;
 
-    -moz-transition: opacity 1.25s ease-out;
-	-webkit-transition: opacity 1.25s ease-out;
-	-ms-transition: opacity 1.25s ease-out;
-	transition: opacity 1.25s ease-out;
+    -moz-transition: opacity 0.75s ease-out;
+	-webkit-transition: opacity 0.75s ease-out;
+	-ms-transition: opacity 0.75s ease-out;
+	transition: opacity 0.75s ease-out;
 }
 
 .mock-background {
